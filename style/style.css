@@ -26,7 +26,8 @@ a {
     justify-content: space-around;
     
 }
-.header-top {
-    display: flex;
-    justify-content: center;
+
+.main {
+    background: #34547A;
+    height: 100vh;
 }

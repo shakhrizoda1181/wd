@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+a {
+    text-decoration: none;
+    font-weight: 500;
+
+}
+.ul {
+    list-style: none;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    letter-spacing: 0.1em;
+    color: #34547A;
+}
+
+.header_container {
+    background: #EEEFF1;
+    
+}
+.nav {
+    display: flex;
+    justify-content: space-around;
+    
+}
+.header-top {
+    display: flex;
+    justify-content: center;
+}
